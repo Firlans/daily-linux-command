@@ -1,4 +1,4 @@
-# 🐧 Linux Commands Cheatsheet
+# 🐧 Linux Commands Cheatsheet for Daily use
 
 ## 📁 File and Directory Operations
 
