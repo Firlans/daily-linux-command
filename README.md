@@ -1,8 +1,8 @@
-* linux command for daily use
-** change directory
+* linux command for daily use *
+** change directory **
 cd <directory>
 
-** copy file
+** copy file **
 cp <file target> <directory>
 
 ** create folder
