@@ -1,21 +1,21 @@
-* linux command for daily use *
-** change directory **
+# linux command for daily use
+## change directory 
 cd <directory>
 
-** copy file **
+## copy file
 cp <file target> <directory>
 
-** create folder
+## create folder
 mkdir <folder name>
 
-** remove folder
+## remove folder
 rmdir <folder name>
 
-** show items
+## show items
 ls
 
-** show current working directory
+## show current working directory
 pwd
 
-** move or change name file
+## move or change name file
 mv <file path> <folder target/name changed>
